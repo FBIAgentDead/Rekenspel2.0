@@ -1,0 +1,19 @@
+.VragenBox {
+    width: 300px;
+    border: 25px solid green;
+    padding: 70px 0;
+    margin: auto;
+    text-align: center;
+
+}
+.start{
+  margin: auto;
+  text-align: center;
+  padding: 70px 0;
+
+}
+.GoedEnFout{
+  text-align: right;
+  padding: 10px 20;
+}
+body {background-color: lightcyan;}
